@@ -1,0 +1,2 @@
+defmodule WeatherApp do
+end
